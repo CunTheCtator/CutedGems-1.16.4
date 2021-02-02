@@ -1,0 +1,11 @@
+{
+    "item.cutedgems.cuted_diamond": "Cuted Diamond",
+    "item.cutedgems.cuted_emerald": "Cuted Emerald",
+    "item.cutedgems.cuted_lapis": "Cuted Lapis",
+    "item.cutedgems.cuted_redstone": "Cuted Redstone",
+    "item.cutedgems.hardened_diamond": "Hardened Diamond",
+    "item.cutedgems.hardened_diamond_blank": "Hardened Diamond Blank",
+    "item.cutedgems.hardened_diamond_cuters": "Hardened Diamond Cuters",
+
+    "itemGroup.cutedgemstab": "Cuted Gems"
+}

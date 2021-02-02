@@ -1,0 +1,32 @@
+
+modLoader="javafml"
+loaderVersion="[35,)"
+license="MIT License"
+
+[[mods]]
+modId="cutedgems"
+version="1.1.2"
+displayName="Cuted Gems"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/cuted-gems"
+logoFile="icon.png"
+credits="Thanks to TurtyWurty for his awsome tutorials"
+authors="Creator: _Cunctator_, Beta-Tester: Skvivtor"
+description='''
+This mod adds a way to cut gems in minecraft
+
+This mod nees to be installed fo some other of my mods to work
+'''
+
+[[dependencies.cutedgems]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cutedgems]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

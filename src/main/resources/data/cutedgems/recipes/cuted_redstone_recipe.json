@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "cutedgems:hardened_diamond_cuters"
+    }
+  ],
+  "result": {
+    "item": "cutedgems:cuted_redstone",
+    "count": 1
+  }
+}

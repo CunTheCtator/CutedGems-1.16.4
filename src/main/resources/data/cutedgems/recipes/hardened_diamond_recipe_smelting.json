@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "cutedgems:hardened_diamond_blank"
+    },
+    "result": "cutedgems:hardened_diamond",
+    "experience": 0.1,
+    "cookingtime": 200
+}

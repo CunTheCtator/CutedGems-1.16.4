@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# ",
+        " #"
+    ],
+    "key": {
+        "#": {
+            "item": "cutedgems:hardened_diamond"
+        }
+    },
+    "result": {
+        "item": "cutedgems:hardened_diamond_cuters",
+        "count": 1
+    }
+}
