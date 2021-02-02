@@ -1,7 +1,7 @@
 Cuted Gems
 ===========================================
 This is minecraft mod created by **Cunctator**
-
+-----------------------------------------------
 
 License - **MIT License**: 
 
